@@ -9690,10 +9690,10 @@ rc@^1.2.7, rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-awesome-styled-grid@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-awesome-styled-grid/-/react-awesome-styled-grid-3.0.0.tgz#ffe806f611d37fb688f09409c25291b11590c610"
-  integrity sha512-V/OpveeqnHQcydj8h9xLX8IXHlk6s0VT7JUcnkxyhgduzYYeIHc2YNqHsr0vq7+gSzTKYFgR2YBKF/aTEq4Wrg==
+react-awesome-styled-grid@3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/react-awesome-styled-grid/-/react-awesome-styled-grid-3.0.3.tgz#8abe515c8cf84e523180965530afa9ff81d51eac"
+  integrity sha512-Fk3Fx3L3JpHi/k6Y4u9J86b4goQRNzItI2Vpih7p7noUKdysHLJ0Rs9Hu7RZNcV8DEdb/zEcGqBEutaJ+NptQg==
 
 react-dev-utils@^4.2.3:
   version "4.2.3"
